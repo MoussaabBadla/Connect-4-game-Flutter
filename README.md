@@ -1,4 +1,4 @@
-# test1
+# Flutter Connect 4 Game
 
 A new Flutter project.
 
